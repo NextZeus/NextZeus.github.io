@@ -7,8 +7,12 @@
   "license": "ISC",
   "dependencies": {
     "co": "^4.6.0",
+    "moment": "^2.23.0",
     "mysql": "^2.15.0",
     "protobufjs": "^6.8.6",
     "shelljs": "^0.7.8"
+  },
+  "devDependencies": {
+    "bull": "^3.5.2"
   }
 }
