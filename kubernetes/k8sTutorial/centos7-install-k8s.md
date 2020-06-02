@@ -224,25 +224,17 @@ kubectl delete -f examples/k8s
 
 ![image-20200521111921285](./images/image-20200521111921285.png)
 
-
-
 ![image-20200521112003061](./images/image-20200521112003061.png)
 
 执行完以上命令后，在浏览器里面访问执行命令所在的节点的http://{IP}:4040，将看到以下界面。是不是很炫酷！
 
 [![img](http://ljchen.net/uploads/weavescope-demo.png)](http://ljchen.net/uploads/weavescope-demo.png)
 
-
-
 ![image-20200521112241732](./images/image-20200521112241732.png)
-
-
 
 ![image-20200521112424991](./images/image-20200521112424991.png)
 
-
-
-![image-20200521112523955](/Users/xiaodong/Desktop/k8sTutorial/images/image-20200521112523955.png)
+![image-20200521112523955](./images/image-20200521112523955.png)
 
 
 

@@ -74,8 +74,6 @@ kubectl apply -f "https://github.com/NextZeus/k8s-deploy-nodejs-app/blob/master/
 
 [kubernetes-port-targetport-nodeport/](https://www.bmc.com/blogs/kubernetes-port-targetport-nodeport/)
 
-
-
 # Service type
 
 Kubernetes `ServiceTypes` 允许指定一个需要的类型的 Service，默认是 `ClusterIP` 类型。
@@ -131,14 +129,11 @@ spec:
 https://bbs.huaweicloud.com/blogs/160797
 
 
-
 如果使用 Minikube，就不会有外部 IP 地址。外部 IP 地址将会一直是 pending 状态。
 
 minikube ip
 
 curl http://minikubeip:nodePort
-
-
 
 ![image-20200518154230542](./images/image-20200518154230542.png)
 
@@ -148,8 +143,6 @@ curl http://minikubeip:nodePort
 
 - 建议使用Deployment 配置创建Pod , 方便对Pod进行操作 
 
-
-
 # MiniKube Status 
 
 ```shell
@@ -158,8 +151,6 @@ kubectl get po -n kube-system
 
 ![image-20200518164818710](./images/image-20200518164818710.png)
 
-
-
 # 访问服务
 
 ![image-20200518165024147](./images/image-20200518165024147.png)
@@ -167,18 +158,15 @@ kubectl get po -n kube-system
 ![image-20200518165100135](./images/image-20200518165100135.png)
 
 
-
 # Kubernetes install weavescope admin
 
 ![image-20200518170306515](./images/image-20200518170306515.png)
-
 
 
 ## Error
 
 ```
 error: unable to recognize "examples/k8s/psp.yaml": no matches for kind "PodSecurityPolicy" in version "extensions/v1beta1"
-
 
 apiVersion 修改成 policy/v1beta1
 

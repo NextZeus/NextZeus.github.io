@@ -20,31 +20,31 @@ $ kubectl apply -f samples/bookinfo/platform/kube/bookinfo.yaml
 
 安装istioctl
 
-![image-20200331082816203](/Users/xiaodong/Desktop/k8sTutorial/images/Istio/image-20200331082816203.png)
+![image-20200331082816203](./images/Istio/image-20200331082816203.png)
 
 运行demo
 
-![image-20200331111227358](/Users/xiaodong/Desktop/k8sTutorial/images/Istio/image-20200331111227358.png)
+![image-20200331111227358](./images/Istio/image-20200331111227358.png)
 
 部署 Bookinfo 示例应用程序
 
-![image-20200331111540671](/Users/xiaodong/Desktop/k8sTutorial/images/Istio/image-20200331111540671.png)
+![image-20200331111540671](./images/Istio/image-20200331111540671.png)
 
 
 
-![image-20200331111737334](/Users/xiaodong/Desktop/k8sTutorial/images/Istio/image-20200331111737334.png)
+![image-20200331111737334](./images/Istio/image-20200331111737334.png)
 
-![image-20200331111836440](/Users/xiaodong/Desktop/k8sTutorial/images/Istio/image-20200331111836440.png)
+![image-20200331111836440](./images/Istio/image-20200331111836440.png)
 
 下面全是手动安装过程问题
 
-![image-20200331080831765](/Users/xiaodong/Desktop/k8sTutorial/images/Istio/image-20200331080831765.png)
+![image-20200331080831765](./images/Istio/image-20200331080831765.png)
 
-![image-20200331082232294](/Users/xiaodong/Desktop/k8sTutorial/images/Istio/image-20200331082232294.png)
+![image-20200331082232294](./images/Istio/image-20200331082232294.png)
 
 
 
-![image-20200331082311059](/Users/xiaodong/Desktop/k8sTutorial/images/Istio/image-20200331082311059.png)
+![image-20200331082311059](./images/Istio/image-20200331082311059.png)
 
 
 

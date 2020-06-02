@@ -57,10 +57,6 @@ kubectl 命令超时
 
 ![image-20200416170924304](./images/image-20200416170924304.png)
 
-
-
-
-
 ```shell
 xiaodong@bogon ~ [SIGINT]> minikube start --kubernetes-version=1.18.0
 😄  Darwin 10.13.3 上的 minikube v1.9.2
@@ -79,8 +75,6 @@ xiaodong@bogon ~ [SIGINT]> minikube start --kubernetes-version=1.18.0
     > kubelet: 108.01 MiB / 108.01 MiB [---------] 100.00% 510.96 KiB p/s 3m36s
 🌟  Enabling addons: default-storageclass, storage-provisioner
 🏄  完成！kubectl 已经配置至 "minikube"
-xiaodong@bogon ~>
-xiaodong@bogon ~>
 xiaodong@bogon ~>
 xiaodong@bogon ~>
 xiaodong@bogon ~> minikube status
