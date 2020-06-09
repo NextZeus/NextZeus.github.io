@@ -21,7 +21,7 @@
 * 了解Docker, Docker-Compose & deploy express application with docker, docker-compose
 
 * 期望职位: Node.js高级工程师
-* 期望薪资: 25~40K
+* 期望薪资: 35~50K
 * 期望地点: 北京 上海
 
 ## 工作生涯

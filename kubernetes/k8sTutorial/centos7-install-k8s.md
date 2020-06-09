@@ -152,8 +152,6 @@ k8s.gcr.io/etcd:3.2.24
 k8s.gcr.io/coredns:1.2.2
 ```
 
-
-
 从阿里云拉取镜像
 
 ```shell
