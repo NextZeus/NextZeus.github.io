@@ -422,4 +422,11 @@ app.configure('production|development', 'master', function() {
 在afterStart中，一些需要全局就绪的工作可以放在这里完成，因为调用afterStart的时候，**所有**component的start已经调用完毕。
 stop用于程序结束时对component进行清理时使用
 
+## 协议
+pomelo核心提供两种connector，sioconnector, hybridconnector
+sioconnector基于socket.io, 使用json作为通信格式
+hybridconnectory则用于tcp/websocket通信，底层使用的是二进制协议，同时听过route字典压缩和protobuf压缩，提高带宽利用率，上层接口仍保持json格式的接口
 
+
+proxy component 负责创建 rpc client
+remote component 负责创建 rpc server
