@@ -14,7 +14,7 @@
 ## Third party library
 
 [fasthttp](https://github.com/valyala/fasthttp)
-
+[go-svc](https://github.com/judwhite/go-svc)
 
 
 # Go Module 遇到的问题
