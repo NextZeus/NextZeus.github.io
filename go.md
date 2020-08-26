@@ -34,3 +34,10 @@ go env -w GOPRIVATE=gitlab.xxx.com
 go env -w GOPRIVATE=example.com/org_name
 
 ```
+
+## upgrade module package
+```
+go get github.com/go-redis/redis
+
+如果有新版本 会输出带有 upgrade>> 的日志
+```
