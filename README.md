@@ -49,11 +49,11 @@
 * 职责: 对接微信公众号API；根据需求实现功能; 开发管理后台
 
 ## 技能
-1. 框架: Express, Koa, Pomelo
-2. 数据库: Mongodb, Mysql, Redis, Memcached
+1. 框架: Express, Koa, Pomelo, Gin(Go Web Framework)
+2. 数据库: Mongodb, Mysql, Redis, Memcached, Postgres
 3. Process Manager: PM2, Forever
-4. 运维部署: Linux, Nginx, Docker, Docker-Compose 
-5. 语言: Javascrit ,Python, TypeScript
+4. 运维部署: Linux, Nginx, Docker, Docker-Compose, K8s 
+5. 语言: Javascrit , TypeScript, Go, Java
 6. 版本控制工具: Git 
 
 ## 开源项目
