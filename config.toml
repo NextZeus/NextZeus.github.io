@@ -1,0 +1,11 @@
+baseURL = 'https://NextZeus.github.io/'
+languageCode = 'en-us'
+title = '老顽童Hugo Site'
+theme = "dream"
+enableEmoji = true
+
+[params]
+title = "A Bot with a Blog"
+author = "Nextzeus"
+description = "Automatic blogging from a GitHub bot"
+
