@@ -911,7 +911,7 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "xxxx"
+    GitHub = "https://nextzeus.github.io"
     Linkedin = ""
     Twitter = "xxxx"
     Instagram = "xxxx"
@@ -972,7 +972,7 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Email = "xxxx@xxxx.com"
+    Email = "hautlixiaodong@163.com"
     Resume = "" #goo.gl id
     xda = ""
     kaggle = ""
@@ -1146,9 +1146,9 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
 
 # Options to make output .md files
 # 用于输出 Markdown 格式文档的设置
-[mediaTypes]
-  [mediaTypes."text/plain"]
-    suffixes = ["md"]
+# [mediaTypes]
+#   [mediaTypes."text/plain"]
+#     suffixes = ["md"]
 
 # Options to make output .md files
 # 用于输出 Markdown 格式文档的设置
