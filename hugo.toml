@@ -1152,16 +1152,16 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
 
 # Options to make output .md files
 # 用于输出 Markdown 格式文档的设置
-[outputFormats.MarkDown]
-  mediaType = "text/plain"
-  isPlainText = true
-  isHTML = false
+# [outputFormats.MarkDown]
+#   mediaType = "text/plain"
+#   isPlainText = true
+#   isHTML = false
 
 # Options to make hugo output files
 # 用于 Hugo 输出文档的设置
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-  page = ["HTML", "MarkDown"]
+  page = ["HTML"]
   section = ["HTML", "RSS"]
   term = ["HTML", "RSS"]
   taxonomy = ["HTML"]
