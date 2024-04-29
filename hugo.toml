@@ -586,7 +586,7 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
       logo = ""
       # title name
       # 标题名称
-      name = "FeelIt"
+      name = "老顽童"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='fa-solid fa-hand-holding-heart fa-fw'></i>"
@@ -618,7 +618,7 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
     author = true
     # site creation time
     # 网站创立年份
-    since = 2019
+    since = 2024
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
@@ -693,7 +693,7 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
     cdnfontawesome = true
     # whether to show link to Raw Markdown content of the content
     # 是否显示原始 Markdown 文档内容的链接
-    linkToMarkdown = true
+    linkToMarkdown = false
     # whether to show link to improve the article
     improveArticle = "https://github.com/khusika/FeelIt/edit/main/exampleSite/content/"
     # whether to show the full text content in RSS
@@ -1108,8 +1108,8 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
 # Author config
 # 作者配置
 [author]
-  name = "xxxx"
-  email = ""
+  name = "xiaodong.li"
+  email = "hautlixiaodong@163.com"
   link = ""
 
 # Sitemap config
